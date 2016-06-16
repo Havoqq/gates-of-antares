@@ -1,109 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="64d6-1cd3-6226-4554" revision="3" gameSystemId="c339-677a-60db-4060" gameSystemRevision="0" battleScribeVersion="1.15" name="Freeborn" authorName="Michael Ovsenik / Vescarea" authorContact="FB" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="64d6-1cd3-6226-4554" revision="4" gameSystemId="c339-677a-60db-4060" gameSystemRevision="0" battleScribeVersion="1.15" name="Freeborn" authorName="Michael Ovsenik / Vescarea" authorContact="FB" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
-    <entry id="66a7-b2ec-cfcc-8359" name="&lt; Commnd Squad Options - Must choose first" points="0.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups>
-        <entryGroup id="c017-7f96-06bd-fd6b" name="Select one of the following option and the relevent selection will appear" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="3933-5e9f-f85c-ba75" name="1&lt; Add 2 extra bodygaurds" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="a400-34cd-f726-fbf6" name="9&lt; Add Batter Drone" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="ad0d-a741-67ad-5d5c" name="7&lt; Add up to 2 Gun Drones" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="d17a-ef4d-2148-25e8" name="8&lt; Add up to 2 shield Drones" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="6559-a8ba-d266-7c27" name="2&lt; HL Armour for unit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="1ef5-d006-6a32-fddb" name="3&lt; Phase Armour for unit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="a04c-3029-b790-0cdb" name="4&lt; Give Captain plasma Carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="a90a-cec1-cd13-3c17" name="5&lt; Give Captain Compression Carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="7f96-ddf7-af5d-958a" name="6&lt; Give Bodygaurds Compression carbines" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-            <entry id="39a7-bedc-c912-a9f0" name="0&lt; None" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="direct parent" childId="39a7-bedc-c912-a9f0" field="selections" type="equal to" value="0.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-              <rules/>
-              <profiles/>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <rules/>
-      <profiles/>
-      <links/>
-    </entry>
     <entry id="a44f-4447-aff2-0dcd" name="Domari Squad (Household Troops)" points="22.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="192">
       <entries>
         <entry id="c61f-6de1-069d-821f" name="&lt; Household Leader" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="191">
@@ -811,7 +708,7 @@
         </link>
       </links>
     </entry>
-    <entry id="b73b-6140-e2ca-f0c1" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
+    <entry id="b73b-6140-e2ca-f0c1" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="b36d-f9f6-80eb-6f8a" name="&lt; Freeborn Captain" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
           <entries/>
@@ -897,7 +794,7 @@
           <modifiers>
             <modifier type="increment" field="maxSelections" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
               <conditions>
-                <condition parentId="roster" childId="3933-5e9f-f85c-ba75" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="b73b-6140-e2ca-f0c1" childId="fc67-3202-e414-a511" field="selections" type="equal to" value="1.0"/>
               </conditions>
               <conditionGroups/>
             </modifier>
@@ -909,6 +806,109 @@
               <modifiers/>
             </link>
           </links>
+        </entry>
+        <entry id="47a4-3d5c-b6c0-9d8c" name="&lt; Commnd Squad Options" points="0.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups>
+            <entryGroup id="9766-1195-9a24-c180" name="Select one of the following option and the relevent selection will appear" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries>
+                <entry id="fc67-3202-e414-a511" name="1&lt; Add 2 extra bodygaurds" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="c84e-6a84-f38b-dc18" name="9&lt; Add Batter Drone" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="6812-fd74-b016-af00" name="7&lt; Add up to 2 Gun Drones" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="9b95-7cfb-6752-bf07" name="8&lt; Add up to 2 shield Drones" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="150b-58a6-18f3-e37b" name="2&lt; HL Armour for unit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="80bb-0e58-119f-dd4e" name="3&lt; Phase Armour for unit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="fd23-d900-671d-037c" name="4&lt; Give Captain plasma Carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="b4d9-34bc-f56a-b477" name="5&lt; Give Captain Compression Carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="7dc4-9520-3d7e-a6b3" name="6&lt; Give Bodygaurds Compression carbines" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+                <entry id="378b-5162-a8fb-6966" name="0&lt; None" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers>
+                    <modifier type="set" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                      <conditions>
+                        <condition parentId="b73b-6140-e2ca-f0c1" childId="378b-5162-a8fb-6966" field="selections" type="equal to" value="0.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </modifier>
+                  </modifiers>
+                  <rules/>
+                  <profiles/>
+                  <links/>
+                </entry>
+              </entries>
+              <entryGroups/>
+              <modifiers/>
+              <links/>
+            </entryGroup>
+          </entryGroups>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links/>
         </entry>
       </entries>
       <entryGroups>
@@ -946,7 +946,7 @@
                 </modifier>
                 <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
                   <conditions>
-                    <condition parentId="roster" childId="ad0d-a741-67ad-5d5c" field="selections" type="equal to" value="1.0"/>
+                    <condition parentId="b73b-6140-e2ca-f0c1" childId="6812-fd74-b016-af00" field="selections" type="equal to" value="1.0"/>
                   </conditions>
                   <conditionGroups/>
                 </modifier>
@@ -960,7 +960,7 @@
                 </modifier>
                 <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
                   <conditions>
-                    <condition parentId="roster" childId="d17a-ef4d-2148-25e8" field="selections" type="equal to" value="1.0"/>
+                    <condition parentId="b73b-6140-e2ca-f0c1" childId="9b95-7cfb-6752-bf07" field="selections" type="equal to" value="1.0"/>
                   </conditions>
                   <conditionGroups/>
                 </modifier>
@@ -974,7 +974,7 @@
                 </modifier>
                 <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
                   <conditions>
-                    <condition parentId="roster" childId="a400-34cd-f726-fbf6" field="selections" type="equal to" value="1.0"/>
+                    <condition parentId="b73b-6140-e2ca-f0c1" childId="c84e-6a84-f38b-dc18" field="selections" type="equal to" value="1.0"/>
                   </conditions>
                   <conditionGroups/>
                 </modifier>
@@ -989,721 +989,15 @@
           <conditionGroups>
             <conditionGroup type="or">
               <conditions>
-                <condition parentId="roster" childId="3933-5e9f-f85c-ba75" field="selections" type="equal to" value="1.0"/>
-                <condition parentId="roster" childId="a400-34cd-f726-fbf6" field="selections" type="equal to" value="1.0"/>
-                <condition parentId="roster" childId="ad0d-a741-67ad-5d5c" field="selections" type="equal to" value="1.0"/>
-                <condition parentId="roster" childId="d17a-ef4d-2148-25e8" field="selections" type="equal to" value="1.0"/>
-                <condition parentId="roster" childId="39a7-bedc-c912-a9f0" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="b73b-6140-e2ca-f0c1" childId="fc67-3202-e414-a511" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="b73b-6140-e2ca-f0c1" childId="c84e-6a84-f38b-dc18" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="b73b-6140-e2ca-f0c1" childId="6812-fd74-b016-af00" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="b73b-6140-e2ca-f0c1" childId="9b95-7cfb-6752-bf07" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="b73b-6140-e2ca-f0c1" childId="378b-5162-a8fb-6966" field="selections" type="equal to" value="1.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
           </conditionGroups>
-        </modifier>
-      </modifiers>
-      <rules/>
-      <profiles/>
-      <links/>
-    </entry>
-    <entry id="15e4-e4af-15f1-94c3" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
-      <entries>
-        <entry id="8b00-b972-e10d-1390" name="&lt; Freeborn Captain" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="b997-071f-1f47-aee8" name="&lt; Leader Level &gt;" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="ed96-be90-06f3-0beb" targetId="5a4c-2f5e-40a2-91d4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="992a-ced2-9419-513c" name="&lt;Freeborn Captain Equipment &gt;" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups>
-                <entryGroup id="f80a-cee4-23df-5b8d" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="0ca1-9662-209b-eb0d" targetId="03c2-174e-8617-cf04" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-                <entryGroup id="a5f8-02a4-689a-510f" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="c1d9-84de-92d6-cb72" targetId="e6db-6ed3-1a26-ea56" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-              </entryGroups>
-              <modifiers/>
-              <links/>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="5545-8414-45f3-4c97" targetId="2d89-bcdb-b942-b900" linkType="profile">
-              <modifiers>
-                <modifier type="set" field="3baa-9cfd-f273-822d" value="Command , Hero, Follow, Leader 3" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="15e4-e4af-15f1-94c3" childId="ed96-be90-06f3-0beb" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entry>
-        <entry id="16e2-4b59-8a36-351a" name="Bodygaurds" points="26.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="70fa-1e75-d60b-2e16" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="f41b-1c7d-c117-325d" targetId="03c2-174e-8617-cf04" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="05c5-0dc8-f360-2012" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="b106-d8e7-67b5-3daf" targetId="059b-38f7-0313-5ae4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-          </entryGroups>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-              <conditions>
-                <condition parentId="roster" childId="3933-5e9f-f85c-ba75" field="selections" type="equal to" value="1.0"/>
-              </conditions>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="5e80-a56f-41a7-b337" targetId="9fba-d6b7-c66d-99f0" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups>
-        <entryGroup id="4fd9-336f-cb2a-74cb" name="&lt; Unit Options &gt;" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <links>
-            <link id="5c84-6fcb-23cb-c531" targetId="f3aa-148a-0460-c7e5" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="0534-209c-6e63-b751" targetId="502c-9855-7269-eaa2" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="3cc5-bd4f-f987-bb96" targetId="573b-88bc-97d7-d890" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="9289-3ce8-ce3b-c398" targetId="d118-8115-df5f-2402" linkType="entry">
-              <modifiers>
-                <modifier type="set" field="points" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-                <modifier type="increment" field="points" value="2.0" repeat="true" numRepeats="1" incrementParentId="15e4-e4af-15f1-94c3" incrementChildId="16e2-4b59-8a36-351a" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entryGroup>
-      </entryGroups>
-      <modifiers>
-        <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="7f96-ddf7-af5d-958a" field="selections" type="equal to" value="1.0"/>
-          </conditions>
-          <conditionGroups/>
-        </modifier>
-      </modifiers>
-      <rules/>
-      <profiles/>
-      <links/>
-    </entry>
-    <entry id="4224-b512-8e27-a7ae" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
-      <entries>
-        <entry id="8166-8ae2-85a7-d508" name="&lt; Freeborn Captain" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="ec55-a3a6-79d2-3d8d" name="&lt; Leader Level &gt;" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="7539-56fe-d7c4-3436" targetId="5a4c-2f5e-40a2-91d4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="bc83-ae90-8685-ec61" name="&lt;Freeborn Captain Equipment &gt;" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups>
-                <entryGroup id="8610-880b-d363-2842" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="9413-43f9-5e3c-0e39" targetId="03c2-174e-8617-cf04" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-                <entryGroup id="b05f-e970-7acf-b5c2" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="dc7e-0219-458d-80af" targetId="e6db-6ed3-1a26-ea56" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-              </entryGroups>
-              <modifiers/>
-              <links/>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="74c9-0721-edb2-fe31" targetId="2d89-bcdb-b942-b900" linkType="profile">
-              <modifiers>
-                <modifier type="set" field="3baa-9cfd-f273-822d" value="Command , Hero, Follow, Leader 3" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="4224-b512-8e27-a7ae" childId="ec55-a3a6-79d2-3d8d" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entry>
-        <entry id="733f-d5cf-9ed2-cd37" name="Bodygaurds" points="26.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="2a25-debf-a112-08f8" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="94d8-34e0-0bd0-2f8f" targetId="03c2-174e-8617-cf04" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="64e2-25c4-0a20-fd6f" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="f2d1-fbb0-ae51-637a" targetId="059b-38f7-0313-5ae4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-          </entryGroups>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-              <conditions>
-                <condition parentId="roster" childId="3933-5e9f-f85c-ba75" field="selections" type="equal to" value="1.0"/>
-              </conditions>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="433d-17af-98e2-e708" targetId="9fba-d6b7-c66d-99f0" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups>
-        <entryGroup id="01c0-de81-eb4f-6520" name="&lt; Unit Options &gt;" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <links>
-            <link id="2313-6b51-b6fc-4334" targetId="f3aa-148a-0460-c7e5" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="55b3-8e97-1f9f-99c1" targetId="502c-9855-7269-eaa2" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="6334-02c5-fe28-46b2" targetId="573b-88bc-97d7-d890" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="94a7-abc4-e849-288a" targetId="d118-8115-df5f-2402" linkType="entry">
-              <modifiers>
-                <modifier type="set" field="points" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-                <modifier type="increment" field="points" value="2.0" repeat="true" numRepeats="1" incrementParentId="4224-b512-8e27-a7ae" incrementChildId="733f-d5cf-9ed2-cd37" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entryGroup>
-      </entryGroups>
-      <modifiers>
-        <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="a90a-cec1-cd13-3c17" field="selections" type="equal to" value="1.0"/>
-          </conditions>
-          <conditionGroups/>
-        </modifier>
-      </modifiers>
-      <rules/>
-      <profiles/>
-      <links/>
-    </entry>
-    <entry id="0f65-b8ed-b8b2-294a" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
-      <entries>
-        <entry id="6f3f-e7de-8b1f-9a45" name="&lt; Freeborn Captain" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="3f21-c5d0-9056-3513" name="&lt; Leader Level &gt;" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="6ef1-5f41-d717-8432" targetId="5a4c-2f5e-40a2-91d4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="eba6-42f4-e601-d9d4" name="&lt;Freeborn Captain Equipment &gt;" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups>
-                <entryGroup id="0c25-94d1-2ee1-8f97" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="fd6b-8d29-bb72-1f1a" targetId="03c2-174e-8617-cf04" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-                <entryGroup id="1d89-7fac-a8ca-dea9" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="bfcd-6dc1-7032-9eca" targetId="059b-38f7-0313-5ae4" linkType="entry">
-                      <modifiers>
-                        <modifier type="set" field="points" value="8.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                          <conditions/>
-                          <conditionGroups/>
-                        </modifier>
-                      </modifiers>
-                    </link>
-                  </links>
-                </entryGroup>
-              </entryGroups>
-              <modifiers/>
-              <links/>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="9559-7359-c187-35e7" targetId="2d89-bcdb-b942-b900" linkType="profile">
-              <modifiers>
-                <modifier type="set" field="3baa-9cfd-f273-822d" value="Command , Hero, Follow, Leader 3" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="0f65-b8ed-b8b2-294a" childId="6ef1-5f41-d717-8432" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entry>
-        <entry id="f539-7c50-1fed-c0fe" name="Bodygaurds" points="26.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="db1b-d74c-4488-f114" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="9dbd-a1b9-f7e2-b802" targetId="03c2-174e-8617-cf04" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="da8e-2b95-0031-818a" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="bcc8-515f-8cbc-7a6c" targetId="b018-6101-d2e3-b4ea" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-          </entryGroups>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-              <conditions>
-                <condition parentId="roster" childId="3933-5e9f-f85c-ba75" field="selections" type="equal to" value="1.0"/>
-              </conditions>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="c830-2ab1-3be7-3427" targetId="9fba-d6b7-c66d-99f0" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups>
-        <entryGroup id="6c4b-1586-3d8b-dbda" name="&lt; Unit Options &gt;" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <links>
-            <link id="712a-24b1-dd4d-c34e" targetId="f3aa-148a-0460-c7e5" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="7484-dc39-dbc9-ced2" targetId="502c-9855-7269-eaa2" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="2981-4427-c93a-87d1" targetId="573b-88bc-97d7-d890" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="7113-0a49-238b-ccc3" targetId="d118-8115-df5f-2402" linkType="entry">
-              <modifiers>
-                <modifier type="set" field="points" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-                <modifier type="increment" field="points" value="2.0" repeat="true" numRepeats="1" incrementParentId="0f65-b8ed-b8b2-294a" incrementChildId="f539-7c50-1fed-c0fe" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entryGroup>
-      </entryGroups>
-      <modifiers>
-        <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="a04c-3029-b790-0cdb" field="selections" type="equal to" value="1.0"/>
-          </conditions>
-          <conditionGroups/>
-        </modifier>
-      </modifiers>
-      <rules/>
-      <profiles/>
-      <links/>
-    </entry>
-    <entry id="ff83-951c-1523-67b4" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
-      <entries>
-        <entry id="0b68-b15d-4f21-400d" name="&lt; Freeborn Captain" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="4f77-859f-d36f-3f51" name="&lt; Leader Level &gt;" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="fab0-fb87-4db4-b758" targetId="5a4c-2f5e-40a2-91d4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="534d-0cc6-dc8f-0e4a" name="&lt;Freeborn Captain Equipment &gt;" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups>
-                <entryGroup id="6168-628e-5ed2-eaa9" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="be23-8e40-689c-4584" targetId="eff8-bb0e-1b1d-bbb2" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-                <entryGroup id="5ec4-d224-e3cc-e5a6" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="bff1-9762-306f-171b" targetId="b018-6101-d2e3-b4ea" linkType="entry">
-                      <modifiers>
-                        <modifier type="set" field="points" value="8.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                          <conditions/>
-                          <conditionGroups/>
-                        </modifier>
-                      </modifiers>
-                    </link>
-                  </links>
-                </entryGroup>
-              </entryGroups>
-              <modifiers/>
-              <links/>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="865b-5fee-3347-eedb" targetId="2d89-bcdb-b942-b900" linkType="profile">
-              <modifiers>
-                <modifier type="set" field="3baa-9cfd-f273-822d" value="Command , Hero, Follow, Leader 3" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="ff83-951c-1523-67b4" childId="fab0-fb87-4db4-b758" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entry>
-        <entry id="b52c-6be6-7a76-ba77" name="Bodygaurds" points="26.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="48ac-19f4-04e6-2834" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="f1f4-b68d-48a0-6c7f" targetId="eff8-bb0e-1b1d-bbb2" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="1095-6dad-810d-ff4f" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="dde5-232c-c035-35fa" targetId="b018-6101-d2e3-b4ea" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="248c-567b-902f-d5d5" targetId="9fba-d6b7-c66d-99f0" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups>
-        <entryGroup id="4329-ec3b-739b-0050" name="&lt; Unit Options &gt;" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <links>
-            <link id="9bc9-cab0-4841-6c2c" targetId="f3aa-148a-0460-c7e5" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="c86a-f1fe-6d59-873f" targetId="502c-9855-7269-eaa2" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="e0aa-ee5e-c24a-c338" targetId="573b-88bc-97d7-d890" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="0aac-c5ca-badb-4434" targetId="d118-8115-df5f-2402" linkType="entry">
-              <modifiers>
-                <modifier type="set" field="points" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-                <modifier type="increment" field="points" value="2.0" repeat="true" numRepeats="1" incrementParentId="ff83-951c-1523-67b4" incrementChildId="b52c-6be6-7a76-ba77" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entryGroup>
-      </entryGroups>
-      <modifiers>
-        <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="6559-a8ba-d266-7c27" field="selections" type="equal to" value="1.0"/>
-          </conditions>
-          <conditionGroups/>
-        </modifier>
-      </modifiers>
-      <rules/>
-      <profiles/>
-      <links/>
-    </entry>
-    <entry id="d603-36ff-a2eb-312f" name="Freeborn Command Squad" points="70.0" categoryId="481abf13-c03e-0dd0-d520-9f9837253cbe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
-      <entries>
-        <entry id="3c30-80dd-c936-7ccf" name="&lt; Freeborn Captain" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="6111-3b3b-a2ef-bdbc" name="&lt; Leader Level &gt;" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="7671-d1cb-8583-32f9" targetId="5a4c-2f5e-40a2-91d4" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="c091-1c08-a4c1-1e30" name="&lt;Freeborn Captain Equipment &gt;" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups>
-                <entryGroup id="90d1-c02b-6791-3678" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="ef1a-0b88-41e9-520f" targetId="eb94-d1e8-1084-71b3" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-                <entryGroup id="954d-9823-9e71-fdb2" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-                  <entries/>
-                  <entryGroups/>
-                  <modifiers/>
-                  <links>
-                    <link id="9620-1c29-bbc5-277d" targetId="e6db-6ed3-1a26-ea56" linkType="entry">
-                      <modifiers/>
-                    </link>
-                  </links>
-                </entryGroup>
-              </entryGroups>
-              <modifiers/>
-              <links/>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="86ad-520b-f8d8-0b4d" targetId="2d89-bcdb-b942-b900" linkType="profile">
-              <modifiers>
-                <modifier type="set" field="3baa-9cfd-f273-822d" value="Command , Hero, Follow, Leader 3" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="d603-36ff-a2eb-312f" childId="7671-d1cb-8583-32f9" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entry>
-        <entry id="70ef-17b0-4cc6-59d6" name="Bodygaurds" points="26.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="190">
-          <entries/>
-          <entryGroups>
-            <entryGroup id="b2b0-8472-6f6f-b03b" name="&lt; Armour &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="4966-a136-1d34-1648" targetId="eb94-d1e8-1084-71b3" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-            <entryGroup id="cd16-bf68-6808-737f" name="&lt; Weapons &gt;" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <links>
-                <link id="7c24-c3ed-edef-f97d" targetId="b018-6101-d2e3-b4ea" linkType="entry">
-                  <modifiers/>
-                </link>
-              </links>
-            </entryGroup>
-          </entryGroups>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="8523-7e21-40bd-02f6" targetId="9fba-d6b7-c66d-99f0" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups>
-        <entryGroup id="1359-b8c0-aedb-1bbe" name="&lt; Unit Options &gt;" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <links>
-            <link id="3c36-c80e-c93c-f6a4" targetId="f3aa-148a-0460-c7e5" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="9092-1d24-81d4-4b37" targetId="502c-9855-7269-eaa2" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="e184-cee5-0fd5-9e41" targetId="573b-88bc-97d7-d890" linkType="entry">
-              <modifiers/>
-            </link>
-            <link id="6f0c-0da4-1e67-2635" targetId="d118-8115-df5f-2402" linkType="entry">
-              <modifiers>
-                <modifier type="set" field="points" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-                <modifier type="increment" field="points" value="2.0" repeat="true" numRepeats="1" incrementParentId="d603-36ff-a2eb-312f" incrementChildId="70ef-17b0-4cc6-59d6" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-            </link>
-          </links>
-        </entryGroup>
-      </entryGroups>
-      <modifiers>
-        <modifier type="show" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="1ef5-d006-6a32-fddb" field="selections" type="equal to" value="1.0"/>
-          </conditions>
-          <conditionGroups/>
         </modifier>
       </modifiers>
       <rules/>
@@ -3247,6 +2541,18 @@
       <profiles/>
       <links>
         <link id="2686-6df4-4601-e99f" targetId="f0d9-1e5a-ec20-b27c" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="8f68-d09d-6e26-c6ea" name="Batter Drone (2)" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="11">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="0a02-46cc-7e6f-28b0" targetId="f0d9-1e5a-ec20-b27c" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -4861,6 +4167,29 @@
         </link>
       </links>
     </entry>
+    <entry id="0f97-9dbe-566a-5ab0" name="Plasma Light Support (Eq)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="76">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="4477-6aca-5fe1-2d03" profileTypeId="ecae-8ac8-2c13-0dd3" name="Plasma Light Support" hidden="false" book="BtGoA" page="76">
+          <characteristics>
+            <characteristic characteristicId="c2de-17f1-10e2-2c0a" name="Effective" value="30"/>
+            <characteristic characteristicId="995e-b5e6-4c63-0baa" name="Long" value="4"/>
+            <characteristic characteristicId="bf58-0ad5-c7ee-3fd9" name="Extreme" value="80"/>
+            <characteristic characteristicId="897c-d3c4-3983-896a" name="Strike Value" value="3"/>
+            <characteristic characteristicId="7e87-2586-653f-d6ec" name="Special Rules" value="RF3, Light Support Weapon"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="61c1-b16a-8335-9497" targetId="97d4-67cb-2671-ca29" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="9cd6-dbb8-bdcb-0299" name="Plasma Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="68">
       <entries/>
       <entryGroups/>
@@ -5350,41 +4679,6 @@
       </profiles>
       <links>
         <link id="ff22-4293-45d6-b483" targetId="1acd-39d3-94e7-48e1" linkType="rule">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="8f68-d09d-6e26-c6ea" name="Batter Drone (2)" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="11">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles/>
-      <links>
-        <link id="0a02-46cc-7e6f-28b0" targetId="f0d9-1e5a-ec20-b27c" linkType="rule">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="0f97-9dbe-566a-5ab0" name="Plasma Light Support (Eq)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="BtGoA" page="76">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="4477-6aca-5fe1-2d03" profileTypeId="ecae-8ac8-2c13-0dd3" name="Plasma Light Support" hidden="false" book="BtGoA" page="76">
-          <characteristics>
-            <characteristic characteristicId="c2de-17f1-10e2-2c0a" name="Effective" value="30"/>
-            <characteristic characteristicId="995e-b5e6-4c63-0baa" name="Long" value="4"/>
-            <characteristic characteristicId="bf58-0ad5-c7ee-3fd9" name="Extreme" value="80"/>
-            <characteristic characteristicId="897c-d3c4-3983-896a" name="Strike Value" value="3"/>
-            <characteristic characteristicId="7e87-2586-653f-d6ec" name="Special Rules" value="RF3, Light Support Weapon"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="61c1-b16a-8335-9497" targetId="97d4-67cb-2671-ca29" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -6195,6 +5489,18 @@ D10 Result:
       </characteristics>
       <modifiers/>
     </profile>
+    <profile id="d0a1-129b-f8e5-b1ad" profileTypeId="1650-77b3-10d1-6406" name="Hound Probe " hidden="false">
+      <characteristics>
+        <characteristic characteristicId="cf30-f234-691c-47bd" name="Ag" value="-"/>
+        <characteristic characteristicId="017a-9b43-b7b3-030d" name="Acc" value="-"/>
+        <characteristic characteristicId="8294-36f1-6431-2145" name="Str" value="-"/>
+        <characteristic characteristicId="f214-abe8-c922-c51b" name="Res" value="5"/>
+        <characteristic characteristicId="08b9-e038-7ba6-488e" name="Init" value="-"/>
+        <characteristic characteristicId="3993-27b0-c3d9-de20" name="Co" value="-"/>
+        <characteristic characteristicId="3baa-9cfd-f273-822d" name="Special" value="Shard"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
     <profile id="ed77-e875-0302-9bf4" profileTypeId="1650-77b3-10d1-6406" name="Household Leader" hidden="false">
       <characteristics>
         <characteristic characteristicId="cf30-f234-691c-47bd" name="Ag" value="5"/>
@@ -6441,6 +5747,18 @@ D10 Result:
       </characteristics>
       <modifiers/>
     </profile>
+    <profile id="4d5f-ccb4-75c2-cbf2" profileTypeId="1650-77b3-10d1-6406" name="Targeter Probe" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="cf30-f234-691c-47bd" name="Ag" value="-"/>
+        <characteristic characteristicId="017a-9b43-b7b3-030d" name="Acc" value="-"/>
+        <characteristic characteristicId="8294-36f1-6431-2145" name="Str" value="-"/>
+        <characteristic characteristicId="f214-abe8-c922-c51b" name="Res" value="5"/>
+        <characteristic characteristicId="08b9-e038-7ba6-488e" name="Init" value="-"/>
+        <characteristic characteristicId="3993-27b0-c3d9-de20" name="Co" value="-"/>
+        <characteristic characteristicId="3baa-9cfd-f273-822d" name="Special" value="Shard"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
     <profile id="5425-1edf-f536-d5a1" profileTypeId="1650-77b3-10d1-6406" name="Transport Drone" hidden="false">
       <characteristics>
         <characteristic characteristicId="cf30-f234-691c-47bd" name="Ag" value="5"/>
@@ -6494,30 +5812,6 @@ D10 Result:
         <characteristic characteristicId="bf58-0ad5-c7ee-3fd9" name="Extreme" value="None"/>
         <characteristic characteristicId="897c-d3c4-3983-896a" name="Strike Value" value="0"/>
         <characteristic characteristicId="7e87-2586-653f-d6ec" name="Special Rules" value="Blast D3, Hand Weapon"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
-    <profile id="4d5f-ccb4-75c2-cbf2" profileTypeId="1650-77b3-10d1-6406" name="Targeter Probe" hidden="false">
-      <characteristics>
-        <characteristic characteristicId="cf30-f234-691c-47bd" name="Ag" value="-"/>
-        <characteristic characteristicId="017a-9b43-b7b3-030d" name="Acc" value="-"/>
-        <characteristic characteristicId="8294-36f1-6431-2145" name="Str" value="-"/>
-        <characteristic characteristicId="f214-abe8-c922-c51b" name="Res" value="5"/>
-        <characteristic characteristicId="08b9-e038-7ba6-488e" name="Init" value="-"/>
-        <characteristic characteristicId="3993-27b0-c3d9-de20" name="Co" value="-"/>
-        <characteristic characteristicId="3baa-9cfd-f273-822d" name="Special" value="Shard"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
-    <profile id="d0a1-129b-f8e5-b1ad" profileTypeId="1650-77b3-10d1-6406" name="Hound Probe " hidden="false">
-      <characteristics>
-        <characteristic characteristicId="cf30-f234-691c-47bd" name="Ag" value="-"/>
-        <characteristic characteristicId="017a-9b43-b7b3-030d" name="Acc" value="-"/>
-        <characteristic characteristicId="8294-36f1-6431-2145" name="Str" value="-"/>
-        <characteristic characteristicId="f214-abe8-c922-c51b" name="Res" value="5"/>
-        <characteristic characteristicId="08b9-e038-7ba6-488e" name="Init" value="-"/>
-        <characteristic characteristicId="3993-27b0-c3d9-de20" name="Co" value="-"/>
-        <characteristic characteristicId="3baa-9cfd-f273-822d" name="Special" value="Shard"/>
       </characteristics>
       <modifiers/>
     </profile>
